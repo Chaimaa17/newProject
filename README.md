@@ -1,0 +1,2 @@
+# newProject
+exploring new things
